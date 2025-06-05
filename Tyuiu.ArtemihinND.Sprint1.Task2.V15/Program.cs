@@ -19,6 +19,7 @@ namespace Tyuiu.ArtemihinND.Sprint1.Task2.V15
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание #2                                                              *");
+            Console.WriteLine("*Вариант #15                                                              *");
             Console.WriteLine("* Выполнил: Артемихин Никита Дмитриевич | ПКТб-24-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
